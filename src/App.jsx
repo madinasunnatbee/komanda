@@ -5,6 +5,7 @@ const App = () => {
     <div>
       
       <h1>Botlar</h1>
+      <h2>Firdavs LG</h2>
 
 
 
